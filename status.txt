@@ -1,0 +1,24 @@
+Tasks We Did:
+    1-Splash Screen
+    2-Login(CTWO,EMTs,ASI,CRI)
+    3-Apply For Job(CTWO,EMTs,Drivers)
+    4-Manage EMTs(CRUD operations)
+    5-Manage Drivers(CRUD operations)
+    6-Manage Ambulances(CRUD operations)
+    7-Manage Equipments(CRUD operations)
+    8-Parking Simulation
+    9-Help(CRI,ASI)
+    10-UI(ASI,CRI,CTWO,EMT)COMPLETE
+    11-View Account Profile(ASI,CRI)
+    12-Manage CTWO(CRUD operation)
+    13-Load Map
+Tasks We Unabled to cpmplete:
+    1-Dispatch Embulance
+    2-Fill ECF
+    3-Fill Patient Form
+    4-Emergencies records
+    5-Data Analysis
+Improvement:
+    1-Map can be improved
+    2-Picture Load can be improved
+    3-Delete Equipment
